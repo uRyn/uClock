@@ -1,0 +1,34 @@
+#git ignore file lists
+a.out
+*.swp
+.DS_Store
+build/
+.vscode/
+
+#xcode
+xcuserdata/
+project.xcworkspace/
+
+#visual studio
+*.VC.db
+ipch
+Debug
+Release
+x64/
+ARM/
+*.sdf
+.vs
+*.vcxproj.user
+*.v*.suo
+*.opensdf
+*.VC.opendb
+*.obj
+*.exe
+*.aps
+*.pdb
+obj.X86/
+obj.X64/
+*.lib
+*.dll
+bin.X86/
+bin.X64/
